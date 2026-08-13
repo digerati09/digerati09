@@ -9,7 +9,7 @@
 - 📱 **Flutter & Dart**를 활용해 사용자 경험이 뛰어난 앱을 만듭니다.
 - 🌱 현재 **상태 관리(Provider, Riverpod, BLoC)**와 **Clean Architecture**를 깊게 파고 있습니다.
 - 💬 **UI/UX 구현**이나 **앱 배포 자동화**에 대해 이야기하는 것을 좋아합니다.
-- 📫 How to reach me: `여러분의_이메일@gmail.com`
+- 📫 How to reach me: `ijaeyong4321@gmail.com`
 
 ---
 
