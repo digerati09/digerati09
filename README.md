@@ -25,11 +25,4 @@
 
 ---
 
-###  GitHub Stats
-<div align="center">
-  <!-- 대안 1: 서버가 안정적인 GitHub Profile Summary Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digerati09&theme=tokyonight" alt="GitHub Summary Card" />
-  <br/><br/>
-  <!-- 대안 2: 언어 사용량 통계 카드 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digerati09&theme=tokyonight" alt="GitHub Language Stats" />
-</div>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
