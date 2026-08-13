@@ -27,10 +27,9 @@
 
 ### 📊 GitHub Stats
 <div align="center">
-  <!-- GitHub 기본 통계 및 주력 언어 (digerati09 적용 완료) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=digerati09&show_icons=true&theme=tokyonight" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digerati09&layout=compact&theme=tokyonight" height="150" alt="top languages graph" />
+  <!-- 대안 1: 서버가 안정적인 GitHub Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digerati09&theme=tokyonight" alt="GitHub Summary Card" />
   <br/><br/>
-  <!-- GitHub 잔디(Streak) 통계 (digerati09 적용 완료) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=digerati09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- 대안 2: 언어 사용량 통계 카드 -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=digerati09&theme=tokyonight" alt="GitHub Language Stats" />
 </div>
