@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 <div align="center">
   <!-- 플러터 & 모바일 개발 스택 뱃지 -->
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
@@ -25,7 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 <div align="center">
   <!-- 대안 1: 서버가 안정적인 GitHub Profile Summary Cards -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=digerati09&theme=tokyonight" alt="GitHub Summary Card" />
